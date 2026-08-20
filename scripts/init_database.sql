@@ -8,6 +8,6 @@ Script purpose:
 
 create  database dataWarehouse;
 use datawarehouse;
-create schema bronze;
-create schema silver;
-create schema gold;
+create database bonze_db;
+create database silver_db;
+create database gold_db;

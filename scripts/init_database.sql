@@ -1,9 +1,9 @@
 /*
-Create Database and Schemas
+CREATE DATABASES:
 
 Script purpose:
     This script creates a new database named "Data warehouse".
-    Additionally, the script sets up three schemas within the database: bronze, silver, gold.
+    Additionally, the script sets up three schemas(databases) within the database: bronze, silver, gold.
 */
 
 create  database dataWarehouse;
